@@ -21,7 +21,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](.//outimg.png)
 
 
 ## Result:
